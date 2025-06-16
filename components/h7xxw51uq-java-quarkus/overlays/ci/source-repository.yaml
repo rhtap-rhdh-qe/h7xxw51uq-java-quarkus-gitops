@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: h7xxw51uq-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/h7xxw51uq-java-quarkus
